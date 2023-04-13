@@ -1,0 +1,69 @@
+# Translation of Themes - Ayroma in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Ayroma package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-01 18:17:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Ayroma\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Ayroma is a stylish and multipurpose eCommerce cosmetic WordPress theme designed for all beauty websites and cosmetics shops. A gorgeous set of shop page layouts and sections. Here are some of the most prominent features in Pro version. Visit Ayroma pro demo. https://preview.sellerthemes.com/pro/ayroma/"
+msgstr "Ayroma es un tema de WordPress para comercio electrónico de cosméticos, elegante y polivalente, diseñado para cualquier web de belleza y o tiendas de cosméticos. Cuenta con un magnífico conjunto de diseños de página de tienda y secciones. Estas son algunas de las características más destacadas de la versión Pro. Visita la demo de Ayroma pro. https://preview.sellerthemes.com/pro/ayroma/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Ayroma"
+msgstr "Ayroma"
+
+#: inc/customizer/customizer-options/ayroma-pro.php:29
+msgid "Give us Rating"
+msgstr "Valóranos"
+
+#: inc/customizer/customizer-options/ayroma-pro.php:27
+msgid "Ask for Support"
+msgstr "Pide soporte"
+
+#: inc/customizer/customizer-options/ayroma-pro.php:25
+msgid "Purchase Now"
+msgstr "Compra ahora"
+
+#: inc/customizer/customizer-options/ayroma-pro.php:23
+msgid "Pro Demo"
+msgstr "Demo Pro"
+
+#: inc/customizer/customizer-options/ayroma-pro.php:7
+msgid "Get More Features in Ayroma Pro"
+msgstr "Obtén más características con Ayroma Pro"
+
+#: woocommerce/content-product.php:46 woocommerce/content-product.php:87
+msgid "Sale"
+msgstr "Oferta"
+
+#: template-parts/sections/section-header.php:35
+msgid "Add widget here."
+msgstr "Añadir widget aquí."
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/ayroma-free/"
+msgstr "https://sellerthemes.com/ayroma-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Seller Themes"

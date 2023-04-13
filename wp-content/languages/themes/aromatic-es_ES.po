@@ -1,0 +1,691 @@
+# Translation of Themes - Aromatic in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Aromatic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-03 07:52:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Aromatic\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Aromatic is a stylish and multipurpose eCommerce cosmetic WordPress theme designed for all beauty websites and cosmetics shops. A gorgeous set of shop page layouts and sections. Here are some of the most prominent features in Pro version. Visit Aromatic pro demo. https://preview.sellerthemes.com/pro/aromatic/"
+msgstr "Aromatic es un tema de WordPress para comercio electrónico de cosméticos, elegante y polivalente, diseñado para cualquier web de belleza y o tiendas de cosméticos. Cuenta con un magnífico conjunto de diseños de página de tienda y secciones. Estas son algunas de las características más destacadas de la versión Pro. Visita la demo de Aromatic pro. https://preview.sellerthemes.com/pro/aromatic/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Aromatic"
+msgstr "Aromatic"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:41
+msgid "Setting"
+msgstr "Ajuste"
+
+#: inc/getting-start.php:42
+msgid "Get started with Aromatic"
+msgstr "Empieza a usar Aromatic"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/getting-start.php:36
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/getting-start.php:29
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: inc/customizer/customizer-options/aromatic-pro.php:29
+msgid "Give us Rating"
+msgstr "Valóranos"
+
+#: inc/customizer/customizer-options/aromatic-pro.php:27
+msgid "Ask for Support"
+msgstr "Pide soporte"
+
+#: inc/customizer/customizer-options/aromatic-pro.php:25
+msgid "Purchase Now"
+msgstr "Compra ahora"
+
+#: inc/customizer/customizer-options/aromatic-pro.php:23
+msgid "Pro Demo"
+msgstr "Demo Pro"
+
+#: inc/customizer/customizer-options/aromatic-pro.php:7
+msgid "Get More Features in Aromatic Pro"
+msgstr "Obtén más características con Aromatic Pro"
+
+#: woocommerce/content-product.php:46 woocommerce/content-product.php:87
+msgid "Sale"
+msgstr "Oferta"
+
+#: woocommerce/cart/mini-cart.php:105 woocommerce/cart/mini-cart.php:205
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:198
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/mini-cart.php:197
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: woocommerce/cart/mini-cart.php:92 woocommerce/cart/mini-cart.php:192
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/mini-cart.php:47 woocommerce/cart/mini-cart.php:147
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página de ancho completo"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: template-parts/sections/section-header.php:40
+msgid "Add widget here."
+msgstr "Añadir widget aquí."
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizás probar otra búsqueda puede ser últil."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: single.php:56 template-parts/content/content-page.php:34
+#: template-parts/content/content-search.php:34
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/template-tags.php:208
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:204
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/template-tags.php:200
+msgid "Tag Archives: %s"
+msgstr "Archivos de la etiqueta %s"
+
+#: inc/template-tags.php:196
+msgid "Category Archives: %s"
+msgstr "Archivos de la categoría %s"
+
+#: inc/template-tags.php:192
+msgid "Yearly Archives: %s"
+msgstr "Archivo del año: %s"
+
+#: inc/template-tags.php:188
+msgid "Monthly Archives: %s"
+msgstr "Archivo del mes: %s"
+
+#: inc/template-tags.php:184
+msgid "Daily Archives: %s"
+msgstr "Archivo del día: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/extras.php:563
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:558
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: inc/extras.php:554
+msgid "Articles posted by "
+msgstr "Artículos publicados por "
+
+#: inc/extras.php:548
+msgid "Posts tagged "
+msgstr "Entradas con la etiqueta "
+
+#: inc/extras.php:449
+msgid "Search results for "
+msgstr "Resultados de buscar"
+
+#: inc/extras.php:443
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/extras.php:423
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/extras.php:421 inc/extras.php:424
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:396
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Este área de widgets es para el widget de WooCommerce"
+
+#: inc/extras.php:394
+msgid "WooCommerce Widget Area"
+msgstr "Área de widgets de WooCommerce"
+
+#: inc/extras.php:384 inc/extras.php:386
+msgid "Footer Widget"
+msgstr "Widget de pie de página"
+
+#: inc/extras.php:376
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: inc/extras.php:374
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: inc/extras.php:367
+msgid "Header Widget Area"
+msgstr "Área de widgets de cabecera"
+
+#: inc/extras.php:295
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+#: inc/extras.php:291
+msgid "Search Products Here"
+msgstr "Buscar productos aquí"
+
+#: inc/extras.php:237
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/extras.php:236
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/extras.php:210
+msgid "CLOSE"
+msgstr "CERRAR"
+
+#: inc/extras.php:209
+msgid "Shopping Cart"
+msgstr "Carrito"
+
+#: inc/extras.php:196 inc/extras.php:333
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:90
+msgid "Add Widget"
+msgstr "Añadir widget"
+
+#. translators: %s Comment number
+#: inc/extras.php:65
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: inc/extras.php:62
+msgid "0 Comments"
+msgstr "Sin comentarios"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:874
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:907
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:869
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:899
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:852
+msgid "Social icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:844
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:839
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:829
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:825
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:821
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:810
+msgid "Slider Image"
+msgstr "Imagen del carrusel"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:784
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:813
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:781
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:843
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:742
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:741
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:736
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:842
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:725
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:688
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:615
+msgid "Button Label Second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:511
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:495
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:677
+msgid "Designation"
+msgstr "Denominación"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:487
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:668
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:477
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:447
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:653
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:433
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:640
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:866
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:888
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:422
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:630
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:623
+msgid "link"
+msgstr "enlace"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:406
+msgid "Button Label second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:398
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:607
+msgid "Button Label"
+msgstr "Etiqueta del Botón"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:391
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:600
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:383
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:592
+msgid "Subtitle 5"
+msgstr "Subtítulo 5"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:375
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Subtitle 4"
+msgstr "Subtítulo 4"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Subtitle 3"
+msgstr "Subtítulo 3"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:359
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:46
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Add new field"
+msgstr "Añadir un campo nuevo"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:12
+#: inc/getting-start.php:40
+msgid "Install and activate <strong>eCommerce Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>eCommerce Companion</strong> para aprovechar al máximo todas las características que ofrece este tema."
+
+#: inc/customizer/customizer-options/aromatic_recommended_plugin.php:8
+msgid "Install and activate <strong>WooCommerce</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>WooCommerce</strong> para aprovechar al máximo todas las características que ofrece este tema."
+
+#: inc/customizer/customizer-options/aromatic-header.php:126
+#: inc/customizer/customizer-options/aromatic-header.php:145
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-options/aromatic-header.php:92
+msgid "Product Search"
+msgstr "Buscar producto"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:61
+#: inc/customizer/customizer-options/aromatic-header.php:70
+#: inc/customizer/customizer-options/aromatic-header.php:111
+#: inc/customizer/customizer-options/aromatic-header.php:162
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-options/aromatic-header.php:53
+msgid "Cart"
+msgstr "Carro"
+
+#: inc/customizer/customizer-options/aromatic-header.php:34
+msgid "Header Navigation"
+msgstr "Navegación de la cabecera"
+
+#: inc/customizer/customizer-options/aromatic-header.php:22
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customizer/customizer-options/aromatic-general.php:173
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: inc/customizer/customizer-options/aromatic-general.php:143
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: inc/customizer/customizer-options/aromatic-general.php:124
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/customizer-options/aromatic-general.php:106
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/customizer-options/aromatic-general.php:85
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar sección"
+
+#: inc/customizer/customizer-options/aromatic-general.php:66
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/customizer/customizer-options/aromatic-general.php:46
+msgid "Page Breadcrumb"
+msgstr "Migas de pan de página"
+
+#: inc/customizer/customizer-options/aromatic-general.php:35
+msgid "Hide / Show Scroller"
+msgstr "Ocultar / Mostrar scroller"
+
+#: inc/customizer/customizer-options/aromatic-general.php:16
+msgid "Top Scroller"
+msgstr "Desplazamiento superior"
+
+#: inc/customizer/customizer-options/aromatic-general.php:7
+msgid "General"
+msgstr "Generales"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:103
+msgid "Background Image 3"
+msgstr "Imagen de fondo 3"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:86
+msgid "Background Image 2"
+msgstr "Imagen de fondo 2"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:69
+msgid "Background Image 1"
+msgstr "Imagen de fondo 1"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:51
+msgid "Footer Background"
+msgstr "Fondo del pie de página"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:38
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:25
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:18
+msgid "Below Footer"
+msgstr "Debajo del pie de página"
+
+#: inc/customizer/customizer-options/aromatic-footer.php:10
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:141
+msgid "No of Blog Display"
+msgstr "Cantidad a mostrar en el blog"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:122
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:100
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:552
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:81
+#: inc/customizer/customizer-options/aromatic-header.php:12
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:18
+msgid "Blog Section"
+msgstr "Sección de blog"
+
+#: inc/customizer/customizer-options/aromatic-blog.php:10
+msgid "Frontpage Sections"
+msgstr "Secciones de la página de inicio"
+
+#: inc/customizer/customizer-notify.php:111
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/class-wp-bootstrap-navwalker.php:381
+msgid "Add a menu"
+msgstr "Añade un menú"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:25
+msgid "<a href=\"#\">Aromatic</a>"
+msgstr "<a href=\"#\">Aromatic</a>"
+
+#: comments.php:87
+msgid "Write a comment&hellip;"
+msgstr "Deja un comentario"
+
+#: comments.php:85
+msgid "Log out?"
+msgstr "¿Cerrar sesión?"
+
+#: comments.php:85
+msgid "Log out of this account"
+msgstr "Desconectar de esta cuenta"
+
+#: comments.php:85
+msgid "Logged in as"
+msgstr "Registrado como"
+
+#. translators: %1$s opening anchor tag, %2$s closing anchor tag
+#: comments.php:84
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Debes estar %1$sconectado%2$s para publicar un comentario."
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:21
+msgid "Go To Home"
+msgstr "Ir al Inicio"
+
+#: 404.php:20
+msgid "Something went wrong, Looks like this page are not available any more."
+msgstr "Algo salió mal, parece que esta página ya no está disponible."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: 404.php:18
+msgid "oops!"
+msgstr "¡Vaya!"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/aromatic-free/"
+msgstr "https://sellerthemes.com/aromatic-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Seller Themes"
